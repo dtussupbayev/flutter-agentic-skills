@@ -4,5 +4,6 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Local-only artifacts (built bundles, etc.)
+# Local-only artifacts (built bundles, distribution scripts, etc.)
 *.bundle.md
+/scripts/
