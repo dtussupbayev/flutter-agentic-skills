@@ -1,6 +1,7 @@
 # flutter-agentic-skills
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![skills.sh](https://img.shields.io/badge/skills.sh-listed-blue.svg)](https://skills.sh/dtussupbayev/flutter-agentic-skills)
 
 Agent skills for Flutter and Dart projects. Drop them into your AI
 coding assistant so it follows the same conventions you do.
