@@ -1,0 +1,8 @@
+# Editor / OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local-only artifacts (built bundles, etc.)
+*.bundle.md
