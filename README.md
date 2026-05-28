@@ -3,8 +3,9 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![skills.sh](https://img.shields.io/badge/skills.sh-listed-blue.svg)](https://skills.sh/dtussupbayev/flutter-agentic-skills)
 
-Agent skills for Flutter and Dart projects. Drop them into your AI
-coding assistant so it follows the same conventions you do.
+Skills for Flutter and Dart projects, formatted for AI coding assistants
+that read `.agents/skills` (Claude Code, Codex CLI, Cursor, OpenCode,
+others).
 
 Inspired by [`flutter/skills`](https://github.com/flutter/skills),
 [`dart-lang/skills`](https://github.com/dart-lang/skills),
@@ -29,10 +30,11 @@ folder that Claude Code, Codex CLI, Cursor, OpenCode, and most other agents
 read from. Add `-g` to install globally instead of into the current
 directory.
 
-## Contributing
+## Update
 
-PRs and issues welcome. See [`CONTRIBUTING.md`](CONTRIBUTING.md).
+```bash
+npx skills update
+```
 
-## License
-
-[MIT](LICENSE).
+Updates all installed skills to the latest versions. Pass a skill name to
+update one (`npx skills update dart-doc-comments`).
