@@ -17,7 +17,7 @@ Inspired by [`flutter/skills`](https://github.com/flutter/skills),
 | ----- | ----- |
 | [`flutter-bloc-naming`](skills/flutter-bloc-naming/SKILL.md) | Event, state, and handler naming in `flutter_bloc` + `freezed`. |
 | [`flutter-bloc-one-shot-effects`](skills/flutter-bloc-one-shot-effects/SKILL.md) | SnackBar, navigation, dialog reacting to BLoC state transitions. |
-| [`dart-doc-comments`](skills/dart-doc-comments/SKILL.md) | Doc-comment and inline comment style. |
+| [`dart-comments`](skills/dart-comments/SKILL.md) | Documentation, inline, TODO, and FIXME comment style. |
 | [`flutter-reusable-widgets`](skills/flutter-reusable-widgets/SKILL.md) | Context-agnostic shared widgets: no baked-in `Expanded`/`Positioned`, explicit adapters for sliver/box context. |
 
 ## Install
@@ -38,4 +38,4 @@ npx skills update
 ```
 
 Updates all installed skills to the latest versions. Pass a skill name to
-update one (`npx skills update dart-doc-comments`).
+update one (`npx skills update dart-comments`).
