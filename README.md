@@ -16,7 +16,7 @@ Inspired by [`flutter/skills`](https://github.com/flutter/skills),
 | Skill | Topic |
 | ----- | ----- |
 | [`flutter-bloc-naming`](skills/flutter-bloc-naming/SKILL.md) | Event, state, and handler naming in `flutter_bloc` + `freezed`. |
-| [`flutter-bloc-one-shot-effects`](skills/flutter-bloc-one-shot-effects/SKILL.md) | SnackBar, navigation, dialog reacting to BLoC state transitions. |
+| [`flutter-bloc-one-shot-effects`](skills/flutter-bloc-one-shot-effects/SKILL.md) | SnackBars, dialogs, and navigation driven by `flutter_bloc` state, including repeated operation outcomes and late async completions. |
 | [`dart-comments`](skills/dart-comments/SKILL.md) | Documentation, inline, TODO, and FIXME comment style. |
 | [`flutter-reusable-widgets`](skills/flutter-reusable-widgets/SKILL.md) | Context-agnostic shared widgets: no baked-in `Expanded`/`Positioned`, explicit adapters for sliver/box context. |
 
